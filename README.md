@@ -48,7 +48,7 @@ La API ofrece las siguientes operaciones CRUD:
    Swagger UI: http://localhost:8080/swagger-ui.html
    JSON Docs: http://localhost:8080/v3/api-docs/
 
-6. 📚 **Endpoints principales**
+7. 📚 **Endpoints principales**
    A continuación, se detallan los endpoints principales de la API:
    
 | Método HTTP | Endpoint        | Parámetros                       | Descripción                                                                                     |
